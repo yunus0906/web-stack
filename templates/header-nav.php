@@ -27,10 +27,10 @@ $categories = get_categories( array(
                     <!-- logo -->
                     <div class="logo">
                         <a href="<?php bloginfo('url') ?>" class="logo-expanded">
-                            <img src="<?php echo io_get_option('logo_normal') ?>" height="40" alt="<?php bloginfo('name') ?>" />
+                            <img src="<?php echo io_get_option('logo_normal') ?>" height="50" alt="<?php bloginfo('name') ?>" />
                         </a>
                         <a href="<?php bloginfo('url') ?>" class="logo-collapsed">
-                            <img src="<?php echo io_get_option('logo_small') ?>" height="40" alt="<?php bloginfo('name') ?>">
+                            <img src="<?php echo io_get_option('logo_small') ?>" height="50" alt="<?php bloginfo('name') ?>">
                         </a>
                     </div>
                     <div class="mobile-menu-toggle visible-xs">
