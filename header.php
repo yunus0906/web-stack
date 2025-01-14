@@ -31,6 +31,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 <meta property="og:site_name" content="<?php echo io_get_option('seo_home_desc') ?>">
 <link rel="shortcut icon" href="<?php echo io_get_option('favicon') ?>">
 <link rel="apple-touch-icon" href="<?php echo io_get_option('apple_icon') ?>">
+<script defer src="https://umami.kfcvivo50.cc/script.js" data-website-id="00cbe7e5-bf6a-4f92-9036-41e888b2842f"></script>
 <?php wp_head(); ?>
 </head> 
  <body <?php body_class('page-body '.io_get_option('theme_mode')) ?>>
